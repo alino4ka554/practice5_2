@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\practice5_2\practice5_2\bin\Debug\practice5_2.exe.config
+C:\Users\Admin\source\repos\practice5_2\practice5_2\bin\Debug\practice5_2.exe
+C:\Users\Admin\source\repos\practice5_2\practice5_2\bin\Debug\practice5_2.pdb
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.Properties.Resources.resources
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.exe
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.pdb
+C:\Users\Admin\source\repos\practice5_2\practice5_2\obj\Debug\practice5_2.Form1.resources
